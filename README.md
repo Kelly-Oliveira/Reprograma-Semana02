@@ -21,11 +21,12 @@ Eu [Kelly Oliveira](http://instagram.com/kelly_amenduuim), sou uma dev que a qua
   <br />
   Façam uma página simples sobre alguém ou alguma coisa que te inspira, que precisa ter:  
   <br />
-* textos <br />
-* um título <br />
-* um subtítulo   <br />
-* cor
+   * textos <br />
+   * um título <br />
+   * um subtítulo <br />
+   * cor
   <br/>
+  Deploy do projeto: https://kelly-oliveira.github.io/Reprograma-Semana02/
 </p>
 
 
