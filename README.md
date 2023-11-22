@@ -4,7 +4,7 @@
  <img src='https://github.com/Kelly-Oliveira/Reprograma-Semana01/blob/master/photo-perfil/photo-perfil.jpg' width=300 alt='foto da Kelly' >
 </div>
 
-[Kelly Oliveira](http://instagram.com/kelly_amenduuim), sou uma dev que a quase 2 anos se apaixonou por front-end, no momento estou em transição de carreira. Sonho em fazer algo que posso mudar vidas, acredito muito que a educação e a solidariedade é que muda a vida das pessoas.
+Eu [Kelly Oliveira](http://instagram.com/kelly_amenduuim), sou uma dev que a quase 2 anos se apaixonou por front-end, no momento estou em transição de carreira. Sonho em fazer algo que posso mudar vidas, acredito muito que a educação e a solidariedade é que muda a vida das pessoas.
 
 ### Contatos
 
