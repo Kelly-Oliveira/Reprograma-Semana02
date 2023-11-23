@@ -19,7 +19,6 @@ Eu [Kelly Oliveira](http://instagram.com/kelly_amenduuim), sou uma dev que a qua
  <p>
 
   Façam uma página simples sobre alguém ou alguma coisa que te inspira, que precisa ter:  
-  <br />
    * textos <br />
    * um título <br />
    * um subtítulo <br />
